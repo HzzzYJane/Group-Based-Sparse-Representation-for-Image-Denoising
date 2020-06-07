@@ -9,9 +9,9 @@ The comparisons between different methods are shown as below.
 
 ![](./image/comp_table.png)
 From left to right, it shows original, denoised images, and images after total variation, BM3D, K-SVD and our proposed method.
-Experiment results of Lena with \sigma = 0.1
-![](./image/Lena01.png)
-Experiment results of Lena with \sigma = 0.01
-![](./image/Lena001.png)
+Experiment results of Lena with &sigma = 0.1
+![](./image/lena01.png)
+Experiment results of Lena with &sigma = 0.01
+![](./image/lena001.png)
 ## Conclusion
 We can clearly see that the method we proposed perform pretty well in processing details and high noise environment. Also, there is no need for us to train extra dictionary so that its information utilization is pretty high via non-local similarity. However, there are some problems that its running speed is relatively slow and ﬁnal results are not so good as expected.
