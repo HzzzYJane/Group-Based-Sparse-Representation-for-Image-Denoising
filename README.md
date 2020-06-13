@@ -13,11 +13,11 @@ From left to right, it shows original, denoised images, and images after total v
 
 ![](./image/lena01.png)  
 
-<p align="center">Experiment results of Lena with _&sigma;_ = 0.1 </p>  
+<p align="center">Experiment results of Lena with &sigma; = 0.1 </p>  
 
 ![](./image/lena001.png)  
 
-<p align="center">Experiment results of Lena with _&sigma;_ = 0.01 </p>
+<p align="center">Experiment results of Lena with &sigma; = 0.01 </p>
 
 ## Conclusion
 We can clearly see that the method we proposed perform pretty well in processing details and high noise environment. Also, there is no need for us to train extra dictionary so that its information utilization is pretty high via non-local similarity. However, there are some problems that its running speed is relatively slow and ﬁnal results are not so good as expected.
