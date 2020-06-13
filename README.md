@@ -5,8 +5,10 @@ The flowchart can be seen as below, and it shows the process of one iteration in
 
 ![](./image/flowchart.png)
 ## Results
-The comparisons between different methods are shown as below.  
-![](./image/comp_table.png)
+The comparisons between different methods are shown as below:
+<p align="center">
+  <img width="650" height="185" src="https://github.com/HzzzYJane/Group-Based-Sparse-Representation-for-Image-Denoising/blob/master/image/comp_table.png">
+</p>  
 From left to right, it shows original, denoised images, and images after total variation, BM3D, K-SVD and our proposed method. 
 
 Experiment results of Lena with _&sigma;_ = 0.1  
