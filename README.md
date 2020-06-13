@@ -10,11 +10,9 @@ The comparisons between different methods are shown as below:
   <img width="650" height="185" src="https://github.com/HzzzYJane/Group-Based-Sparse-Representation-for-Image-Denoising/blob/master/image/comp_table.png">
 </p>  
 From left to right, it shows original, denoised images, and images after total variation, BM3D, K-SVD and our proposed method. 
-
-![](./image/lena01.png)
-<p align="center">Experiment results of Lena with _&sigma;_ = 0.1 </p>
-
-![](./image/lena001.png)
+![](./image/lena01.png)  
+<p align="center">Experiment results of Lena with _&sigma;_ = 0.1 </p>  
+![](./image/lena001.png)  
 <p align="center">Experiment results of Lena with _&sigma;_ = 0.01 </p>
 
 ## Conclusion
